@@ -13,7 +13,7 @@ A comparative study of three change detection models on the LEVIR-CD dataset:
 
 ## Project Files
 
-📁 **Google Drive**: [https://drive.google.com/drive/folders/1kLDa_Pw5o7DygWni-pHrzaNcCK0ntjE9?usp=sharing]
+📁 **Google Drive**: https://drive.google.com/drive/folders/1kLDa_Pw5o7DygWni-pHrzaNcCK0ntjE9?usp=sharing
 ```
 ChangeDetection/
 ├── final_change_detection_project.ipynb
@@ -41,4 +41,3 @@ ChangeDetection/
 
 Google Colab with A100 GPU, PyTorch 2.0+
 
-https://drive.google.com/drive/folders/1kLDa_Pw5o7DygWni-pHrzaNcCK0ntjE9?usp=sharing
